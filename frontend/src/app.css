@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Pier Sans";
+    font-weight: "300";
+    src: url("/font/PPPierSans-Light.woff2")format("woff2");
+}
