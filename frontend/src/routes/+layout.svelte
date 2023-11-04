@@ -2,7 +2,7 @@
     import "../app.css"
 </script>
 
-<div class="flex pt-10 mx-5 flex-col lg:flex-row">
+<div class="flex py-10 mx-5 flex-col lg:flex-row">
     <div class="block lg:hidden">
         <div class="mx-auto object-center">
             <img height="auto" width="300px" class="m-auto" alt="comsma logo" src="/COMSMA.webp">

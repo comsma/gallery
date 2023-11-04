@@ -38,7 +38,16 @@ const images = [
     },
     {
         src: "https://comsma-gallery.nyc3.cdn.digitaloceanspaces.com/_C6A6084.jpg"
+    },{
+        src: "https://comsma-gallery.nyc3.cdn.digitaloceanspaces.com/DJI_0004.jpg"
+    },{
+        src: "https://comsma-gallery.nyc3.cdn.digitaloceanspaces.com/DJI_0070.jpg"
+    },{
+        src: "https://comsma-gallery.nyc3.cdn.digitaloceanspaces.com/IMG_0503.jpg"
+    },{
+        src: "https://comsma-gallery.nyc3.cdn.digitaloceanspaces.com/f9820416.jpg"
     },
+
 ]
 </script>
 
