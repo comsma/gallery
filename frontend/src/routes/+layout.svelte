@@ -17,7 +17,7 @@
         </div>
 
     </aside>
-    <main class="ml-5">
+    <main class="lg:ml-5">
         <slot />
     </main>
 
